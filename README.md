@@ -1,2 +1,2 @@
 # panda
-My Class Panda Repo
+Changing the Read me file
